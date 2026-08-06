@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile_banner.png" alt="Arnav imarnv Profile Banner" width="100%" style="border-radius: 8px;" />
+  <img src="profile_banner.png" alt="Arnav imarnv Profile Banner" width="600" style="max-width: 100%; border-radius: 8px;" />
 </div>
 
 <br>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/imarnv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&width=435&lines=AI+Engineer;Agentic+AI+Developer;Generative+AI+Builder;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&width=435&center=true&vCenter=true&lines=AI+Engineer;Agentic+AI+Developer;Generative+AI+Builder;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,71 +36,43 @@ I am an **AI Engineer** specializing in **Agentic AI**, **Generative AI**, and c
 
 ### 🛠️ AI & Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 AI, LLM & Agent Frameworks</h4>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-0B0B0C?style=flat-square&logo=graph&logoColor=white" />
-      <img src="https://img.shields.io/badge/LlamaIndex-6A0DAD?style=flat-square&logo=lightning&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <br><br>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Anthropic-CC9900?style=flat-square&logo=anthropic&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Core Backend</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gradio-FF7A00?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💾 Databases & Vector Search</h4>
-      <img src="https://img.shields.io/badge/ChromaDB-0066CC?style=flat-square&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pinecone-1A1A1A?style=flat-square&logo=tree&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Infrastructure & Tools</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-</table>
+#### 🤖 AI, LLM & Agent Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0B0B0C?style=flat-square&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6A0DAD?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-CC9900?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
 
----
+#### 💻 Languages & Core Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7A00?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-### 📊 GitHub Analytics & Stats
+#### 💾 Databases & Vector Search
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-0066CC?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-1A1A1A?style=flat-square&logo=tree&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=imarnv&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Arnav's GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarnv&layout=compact&theme=tokyonight&border_radius=8" alt="Arnav's Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarnv&theme=tokyonight&border_radius=8" alt="GitHub Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+#### ⚙️ Infrastructure & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
